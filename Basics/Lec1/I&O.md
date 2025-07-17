@@ -1,12 +1,12 @@
 # UserInput and UserOutput
 
-library for InputOutput -> #include<iostream>
+library for InputOutput -> #include&lt;iostream&gt
 
-library for mathmetical functions -> #include<math.h> 
+library for mathmetical functions -> #include&lt;math.h&gt 
 
 ## Generic syntax
 <pre>
-#include &lt;iostream&gt;
+#include&lt;iostream&gt;
 int main() {
   // code
   return 0;
