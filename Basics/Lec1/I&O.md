@@ -1,8 +1,8 @@
 # UserInput and UserOutput
 
-library for InputOutput -> #include&lt;iostream&gt
+library for InputOutput -> #include&lt;iostream&gt;
 
-library for mathmetical functions -> #include&lt;math.h&gt 
+library for mathmetical functions -> #include&lt;math.h&gt;
 
 ## Generic syntax
 <pre>
