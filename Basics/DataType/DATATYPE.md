@@ -15,11 +15,12 @@ To store data in a memory location.
 <pre>
    String s = "Hey";
 </pre>
- 
+
 <pre>
   string s;
-  cin<<s;   // it will take only the 1st word of the string ("Hello World" : "Hello")   
+  cin&lt;&lt;s;   // it will take only the 1st word of the string ("Hello World" : "Hello")  
 </pre>
+  
 
 <pre>
   string s;
